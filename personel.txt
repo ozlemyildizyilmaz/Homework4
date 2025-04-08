@@ -1,0 +1,8 @@
+public class Personel {
+    public String Ad;
+    public String Soyad;
+    public String Pozisyon;
+    public double Maas;
+    public String Departman;
+    public Date IseBaslamaTarihi;
+}
