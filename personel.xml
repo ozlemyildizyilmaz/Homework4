@@ -1,0 +1,33 @@
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Personeller>
+    <Personel>
+        <Ad>Deniz</Ad>
+        <Soyad>Özgenç</Soyad>
+        <Pozisyon>Yazılım Geliştirici</Pozisyon>
+        <Maas>20000.50</Maas>
+        <Departman>IT</Departman>
+        <IseBaslamaTarihi>2020-05-01</IseBaslamaTarihi>
+        
+    </Personel>
+    <Personel>
+        <Ad>Meltem</Ad>
+        <Soyad>Öztürk</Soyad>
+        <Pozisyon>Finans Müdürü</Pozisyon>
+        <Maas>25000.00</Maas>
+        <Departman>Finans</Departman>
+        <IseBaslamaTarihi>2018-03-15</IseBaslamaTarihi>
+        
+    </Personel>
+    <Personel>
+        <Ad>Uğur</Ad>
+        <Soyad>Akpınar</Soyad>
+        <Pozisyon>Operasyon Yöneticisi</Pozisyon>
+        <Maas>22000.00</Maas>
+        <Departman>Operasyon</Departman>
+        <IseBaslamaTarihi>2017-07-20</IseBaslamaTarihi>
+       
+    </Personel>
+</Personeller>
+
