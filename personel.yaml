@@ -1,0 +1,26 @@
+
+
+personeller:
+  - ad: Deniz
+    soyad: Özgenç
+    pozisyon: Yazılım Geliştirici
+    maas: 20000.50
+    departman: IT
+    iseBaslamaTarihi: "2020-05-01"
+    
+  
+  - ad: Meltem
+    soyad: Öztürk
+    pozisyon: Finans Müdürü
+    maas: 25000.00
+    departman: IT
+    iseBaslamaTarihi: "2018-03-15"
+    
+  
+  - ad: Uğur
+    soyad: Akpınar
+    pozisyon: Operasyon Yöneticisi
+    maas: 22000.00
+    departman: Operasyon
+    iseBaslamaTarihi: "2017-07-20"
+    
